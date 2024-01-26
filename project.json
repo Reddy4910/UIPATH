@@ -5,8 +5,7 @@
   "main": "Sequence.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.0-preview]",
-    "UiPath.IntegrationService.Activities": "[1.1.0]",
-    "UiPath.Pipelines.Activities": "[1.0.6-preview]",
+    "UiPath.Mail.Activities": "[1.22.0-preview]",
     "UiPath.System.Activities": "[23.12.0-preview]",
     "UiPath.Testing.Activities": "[23.12.0-preview]",
     "UiPath.UIAutomation.Activities": "[23.10.8]",
